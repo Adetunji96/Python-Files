@@ -18,3 +18,4 @@ To check the successful installation of python, in cmd type `python --version`. 
 If python is installed then type `pip install tk`, it will install the tkinter package for python onto your computer.
 Then in cmd type the command `import tkinter as tk`. If no errors are thrown, then tkinter is successfully installed.
 The code should be ready to go now.
+Thank you.
